@@ -53,7 +53,7 @@ import static com.google.android.exoplayer2.Player.STATE_READY;
 public class MainActivity extends AppCompatActivity  {
 
 
-    private String hlsVideoUri = "http://winbeesolutions.livebox.co.in/WinbeeDemohls/WinbeeDemo.m3u8";
+    private String hlsVideoUri = "http://winbeesolutions.livebox.co.in/BodhayanAcademyhls/LiveClasses.m3u8";
    // private String hlsVideoUri = "https://r2---sn-qxaeen7l.c.drive.google.com/videoplayback?expire=1592508366&ei=jofrXs2UMdPHuAWEn4ywAQ&ip=2405:205:1209:d0e2:640b:9183:ddfc:2908&cp=QVNOVEZfV1NUR1hOOlRJb0ZJTGlHZTNIaHpycXYzSnhKYWxJcE9UQVNVZUVIRWpsckRVUl9KeG8&id=72ea60dbb8916d31&itag=18&source=webdrive&requiressl=yes&mh=Oh&mm=32&mn=sn-qxaeen7l&ms=su&mv=m&mvi=1&pl=45&ttl=transient&susc=dr&driveid=1pc_0tMyXs67N-YxUQSmPNEtzgFfD-py7&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=735.050&lmt=1587735688974171&mt=1592493866&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRgIhALIhKqiQ7heKRfexzIT8imTs2NctbF_d8VruQshKf3BtAiEAnQAN6w0CcWeYBgnipcoTdnHoU4X_m6jwK1SSA1kUMew=&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgeilxlDj1Fxt-B0DcTIBSwouPUJ9gqVCO85-VZqntoa8CIQCw0U_bFhvwF3KkHckTj1Thb5KudmmIwq8ocH1OZ9VBkg==&cpn=TP8RA6N2aoG4dGQu&c=WEB_EMBEDDED_PLAYER&cver=20200617";
     private SimpleExoPlayer player;
     PlayerView simpleExoPlayerView;
